@@ -1,0 +1,1 @@
+web: gunicorn PollsApp.wsgi --log-file -
